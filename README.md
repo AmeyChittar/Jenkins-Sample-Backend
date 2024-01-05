@@ -1,3 +1,2 @@
-This is a spring boot application which contains a simple API which returns hello to the client.
-I have created this project to get an understanding of jenkins. 
-This project is connected to jenkins and a simple job is tested. 
+Jenkins connection for Spring Boot project. 
+As part of this project, I have successfully integrated a Spring Boot application with Jenkins to gain a comprehensive understanding of continuous integration practices.
